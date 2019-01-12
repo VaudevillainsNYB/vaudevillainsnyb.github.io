@@ -9,6 +9,7 @@
 }
 
 h2 {
-	display: block;
+	display: flex;
+	flex-direction: column
 	text-align: center;
 }
